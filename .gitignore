@@ -399,9 +399,16 @@ config/fml.toml
 config/neoforge-client.toml
 config/neoforge-common.toml
 config/neoforge-server.toml
+config/MouseTweaks.cfg
+config/ftblibrary-client.snbt
+config/jei-server.toml
+config/catalogue.properties
+config/configured-client.properties
+config/catalogue_favourites.txt
 kubejs/README.txt
 /usercache.json
 /usernamecache.json
+config/jei/
 
 # Local History for Visual Studio Code
 .history/
