@@ -391,11 +391,17 @@ FodyWeavers.xsd
 /minecraftinstance.json
 /options.txt
 saves/
+downloads/
+local/
 .vscode/
 defaultconfigs/
 config/fml.toml
 config/neoforge-client.toml
 config/neoforge-common.toml
+config/neoforge-server.toml
+kubejs/README.txt
+/usercache.json
+/usernamecache.json
 
 # Local History for Visual Studio Code
 .history/
