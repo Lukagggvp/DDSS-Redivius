@@ -395,6 +395,8 @@ downloads/
 local/
 .vscode/
 defaultconfigs/
+crash-reports/
+config/fabric/indigo-renderer.properties
 config/fml.toml
 config/neoforge-client.toml
 config/neoforge-common.toml
@@ -405,10 +407,17 @@ config/jei-server.toml
 config/catalogue.properties
 config/configured-client.properties
 config/catalogue_favourites.txt
+config/yacl.json5
+config/placebo.cfg
+config/toastcontrol-client.toml
+config/lootr-client.toml
+config/lootr-common.toml
+config/appleskin-client.toml
 kubejs/README.txt
 /usercache.json
 /usernamecache.json
 config/jei/
+config/jade/
 
 # Local History for Visual Studio Code
 .history/
