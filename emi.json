@@ -1,6 +1,74 @@
 {
   "favorites": [],
   "lookup_history": [
+    "item:lootr:trophy",
+    "item:actuallyadditions:bats_wing",
+    "item:actuallyadditions:diamatine_crystal",
+    "item:actuallyadditions:ender_star",
+    "item:actuallyadditions:crystallized_canola_seed",
+    "item:actuallyadditions:empowered_oil_bucket",
+    "item:actuallyadditions:crystallized_oil_bucket",
+    "item:pamhc2foodcore:honeymuffinitem",
+    {
+      "type": "fluid",
+      "id": "actuallyadditions:empowered_oil",
+      "amount": 0
+    },
+    {
+      "type": "fluid",
+      "id": "actuallyadditions:crystallized_oil",
+      "amount": 0
+    },
+    {
+      "type": "fluid",
+      "id": "actuallyadditions:refined_canola_oil",
+      "amount": 0
+    },
+    {
+      "type": "fluid",
+      "id": "actuallyadditions:canola_oil",
+      "amount": 0
+    },
+    {
+      "type": "fluid",
+      "id": "minecraft:lava",
+      "amount": 0
+    },
+    {
+      "type": "fluid",
+      "id": "minecraft:water",
+      "amount": 0
+    },
+    "biome:minecraft:badlands",
+    "item:actuallyadditions:black_quartz_ore",
+    "item:actuallyadditions:black_quartz",
+    "item:projectvibrantjourneys:gilded_red_sand",
+    "#item:c:leafyvegetables",
+    "item:pamhc2foodextended:leafyfishsandwichitem",
+    "item:pamhc2foodcore:basicfishsandwichitem",
+    "item:pamhc2foodcore:fishandchipsitem",
+    "item:pamhc2foodcore:groundporkitem",
+    "item:pamhc2foodcore:cookedgroundfishitem",
+    "item:pamhc2foodcore:fishsticksitem",
+    "item:pamhc2foodcore:gummycreepersitem",
+    {
+      "id": "minecraft:instant_health",
+      "show_icon": true,
+      "neoforge:cures": [
+        "milk",
+        "protected_by_totem"
+      ]
+    },
+    {
+      "id": "minecraft:weaving",
+      "show_icon": true,
+      "neoforge:cures": [
+        "milk",
+        "protected_by_totem"
+      ]
+    },
+    "biome:minecraft:old_growth_spruce_taiga",
+    "item:minecraft:spruce_door",
     "item:pamhc2foodextended:cactusfruitjellysandwichitem",
     "item:pamhc2foodextended:soymilkitem",
     "item:pamhc2foodextended:espressoitem",
@@ -33,13 +101,11 @@
       "id": "pamhc2foodcore:bakewareitem",
       "remainder": "item:pamhc2foodcore:bakewareitem"
     },
-    "item:actuallyadditions:black_quartz",
     "item:actuallyadditions:filter",
     "item:actuallyadditions:player_probe",
     "item:actuallyadditions:ring_of_magnetizing",
     "item:actuallyadditions:ring_of_growth",
     "item:actuallyadditions:drill_black",
-    "item:actuallyadditions:crystallized_oil_bucket",
     "item:pamhc2foodcore:applemuffinitem",
     "item:actuallyadditions:atomic_reconstructor",
     "item:pamhc2foodcore:carrotcakeitem",
@@ -53,17 +119,17 @@
   "craft_history": [],
   "recipe_defaults": {
     "added": [
-      "minecraft:iron_ingot_from_smelting_raw_iron",
-      "emi_loot:/block_drops/minecraft/blocks/coal_ore",
-      "actuallyadditions:basic_coil",
-      "actuallyadditions:drill_core",
-      "minecraft:black_dye",
       "actuallyadditions:drill_light_blue",
-      "minecraft:redstone_from_smelting_redstone_ore",
       "emi_loot:/block_drops/minecraft/blocks/diamond_ore",
       "emi_loot:/block_drops/minecraft/blocks/gravel",
       "actuallyadditions:advanced_coil",
-      "minecraft:gold_ingot_from_smelting_raw_gold"
+      "minecraft:black_dye",
+      "minecraft:iron_ingot_from_smelting_raw_iron",
+      "emi_loot:/block_drops/minecraft/blocks/coal_ore",
+      "actuallyadditions:drill_core",
+      "minecraft:gold_ingot_from_smelting_raw_gold",
+      "actuallyadditions:basic_coil",
+      "minecraft:redstone_from_smelting_redstone_ore"
     ],
     "tags": {},
     "resolutions": {},

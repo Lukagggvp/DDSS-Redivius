@@ -426,7 +426,8 @@ config/patchouli-client.toml
 config/emi.css
 config/emi_loot_config.toml
 config/actuallyadditions-client.toml
-
+config/jeed-client.toml
+config/emi_ores-client.json
 kubejs/README.txt
 /usercache.json
 /usernamecache.json
@@ -434,6 +435,7 @@ config/jei/
 config/jade/
 config/fzzy_config
 /patchouli_data.json
+/command_history.txt
 
 # Local History for Visual Studio Code
 .history/
