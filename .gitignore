@@ -423,7 +423,7 @@ config/iris-excluded.json
 config/iris.properties
 config/smithingtemplateviewer-common.toml
 config/patchouli-client.toml
-config/emi.css
+/emi.json
 config/emi_loot_config.toml
 config/actuallyadditions-client.toml
 config/jeed-client.toml
@@ -434,9 +434,13 @@ kubejs/README.txt
 config/jei/
 config/jade/
 config/fzzy_config
+config/polylib.json
+config/ftbbackups2.json
+config/ftbxmodcompat.snbt
+config/ftbessentials.snbt
+config/ftbchunks-world.snbt
 /patchouli_data.json
 /command_history.txt
-
 # Local History for Visual Studio Code
 .history/
 
