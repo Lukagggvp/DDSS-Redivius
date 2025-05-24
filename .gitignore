@@ -421,11 +421,19 @@ config/sodium-mixins.properties
 config/sodium-fingerprint.json
 config/iris-excluded.json
 config/iris.properties
+config/smithingtemplateviewer-common.toml
+config/patchouli-client.toml
+config/emi.css
+config/emi_loot_config.toml
+config/actuallyadditions-client.toml
+
 kubejs/README.txt
 /usercache.json
 /usernamecache.json
 config/jei/
 config/jade/
+config/fzzy_config
+/patchouli_data.json
 
 # Local History for Visual Studio Code
 .history/
