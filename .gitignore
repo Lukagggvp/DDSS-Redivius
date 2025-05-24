@@ -415,6 +415,12 @@ config/lootr-common.toml
 config/appleskin-client.toml
 config/pamhc2crops.toml
 config/pamhc2trees.toml
+config/sodiumdynamiclights-client.toml
+config/sodium-options.json
+config/sodium-mixins.properties
+config/sodium-fingerprint.json
+config/iris-excluded.json
+config/iris.properties
 kubejs/README.txt
 /usercache.json
 /usernamecache.json
