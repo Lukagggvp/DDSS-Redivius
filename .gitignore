@@ -441,6 +441,7 @@ config/ftbessentials.snbt
 config/ftbchunks-world.snbt
 /patchouli_data.json
 /command_history.txt
+/ComplementaryReimagined_r5.5.1.zip.txt
 # Local History for Visual Studio Code
 .history/
 
