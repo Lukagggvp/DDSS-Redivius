@@ -439,6 +439,14 @@ config/ftbbackups2.json
 config/ftbxmodcompat.snbt
 config/ftbessentials.snbt
 config/ftbchunks-world.snbt
+config/betterwitchhuts-neoforge-1_21.toml
+config/betteroceanmonuments-neoforge-1_21.toml
+config/bettermineshafts-neoforge-1_21.toml
+config/betterjungletemples-neoforge-1_21.toml
+config/betterdeserttemples-neoforge-1_21.toml
+config/betterdeserttemples/
+config/iceandfire/
+config/*.bak
 /patchouli_data.json
 /command_history.txt
 /ComplementaryReimagined_r5.5.1.zip.txt

@@ -60,7 +60,7 @@
 	# Range: 0.0 ~ 1.0
 	beachGrassWeight = 1.0
 	#Enable generation of bark mushrooms
-	enableBarkMushrooms = false
+	enableBarkMushrooms = true
 	# Default: 1.0
 	# Range: 0.0 ~ 1.0
 	barkMushroomsWeight = 1.0
@@ -90,7 +90,7 @@
 	# Range: 0.0 ~ 1.0
 	naturalCobwebsWeight = 1.0
 	#Enable generation of small cacti
-	enableSmallCacti = false
+	enableSmallCacti = true
 	# Default: 1.0
 	# Range: 0.0 ~ 1.0
 	smallCactiWeight = 1.0
@@ -150,7 +150,7 @@
 	# Range: 0.0 ~ 1.0
 	extraRiverGrassWeight = 1.0
 	#Enable moss carpets in old growth taiga biomes
-	enableMossCarpets = false
+	enableMossCarpets = true
 	# Default: 1.0
 	# Range: 0.0 ~ 1.0
 	mossCarpetsWeight = 1.0
@@ -175,7 +175,7 @@
 	# Range: 0.0 ~ 1.0
 	driedBeachedKelpWeight = 1.0
 	#Enable generation of glowing blue fungus
-	enableGlowingBlueFungus = true
+	enableGlowingBlueFungus = false
 	# Default: 1.0
 	# Range: 0.0 ~ 1.0
 	glowingBlueFungusWeight = 1.0

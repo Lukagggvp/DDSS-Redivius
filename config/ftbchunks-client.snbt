@@ -133,31 +133,52 @@
 		# Default: true
 		entity_heads: true
 		entity_icon: {
-			"minecraft:zombie": true
-			"minecraft:spider": true
-			"minecraft:bee": true
-			"minecraft:sheep": true
-			"minecraft:enderman": true
-			"minecraft:axolotl": true
-			"minecraft:pufferfish": false
+			"minecraft:cave_spider": true
+			"minecraft:rabbit": true
+			"iceandfire:hippocampus": true
 			"minecraft:wolf": true
-			"minecraft:witch": true
-			"minecraft:squid": true
-			"minecraft:skeleton": true
-			"minecraft:zombie_villager": true
+			"iceandfire:pixie": true
+			"minecraft:bee": true
 			"minecraft:drowned": true
-			"minecraft:glow_squid": true
-			"minecraft:slime": true
-			"minecraft:cod": false
-			"minecraft:armadillo": true
-			"minecraft:turtle": true
-			"minecraft:tropical_fish": false
-			"minecraft:salmon": false
+			"minecraft:bat": true
+			"minecraft:squid": true
 			"minecraft:chicken": true
+			"iceandfire:myrmex_worker": true
+			"iceandfire:lightning_dragon": true
+			"iceandfire:myrmex_soldier": true
+			"minecraft:iron_golem": true
+			"minecraft:skeleton": true
+			"minecraft:horse": true
+			"minecraft:glow_squid": true
 			"minecraft:cow": true
+			"minecraft:cod": false
+			"iceandfire:siren": true
+			"iceandfire:cyclops": true
+			"minecraft:villager": true
+			"minecraft:spider": true
+			"iceandfire:hippogryph": true
+			"minecraft:pufferfish": false
+			"minecraft:dolphin": true
+			"minecraft:sheep": true
+			"iceandfire:myrmex_queen": true
+			"minecraft:tropical_fish": false
+			"minecraft:witch": true
+			"iceandfire:fire_dragon": true
+			"minecraft:cat": true
+			"minecraft:goat": true
+			"minecraft:turtle": true
 			"minecraft:creeper": true
 			"minecraft:pig": true
-			"minecraft:bat": true
+			"minecraft:axolotl": true
+			"minecraft:armadillo": true
+			"minecraft:enderman": true
+			"minecraft:zombie": true
+			"minecraft:salmon": false
+			"minecraft:zombie_villager": true
+			"iceandfire:sea_serpent": true
+			"minecraft:fox": true
+			"minecraft:slime": true
+			"iceandfire:deathworm": true
 		}
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)
