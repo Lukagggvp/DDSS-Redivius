@@ -446,6 +446,8 @@ config/betterjungletemples-neoforge-1_21.toml
 config/betterdeserttemples-neoforge-1_21.toml
 config/betterdeserttemples/
 config/iceandfire/iaf-common.json
+config/collective.json5
+config/almostunified/debug.json
 config/*.bak
 /patchouli_data.json
 /command_history.txt
